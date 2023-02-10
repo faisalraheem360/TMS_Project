@@ -1,0 +1,20 @@
+﻿#logon {
+    box-shadow: -3px 6px 51px -13px rgba(0,0,0,0.78);
+    -webkit-box-shadow: -3px 6px 51px -13px rgba(0,0,0,0.78);
+    -moz-box-shadow: -3px 6px 51px -13px rgba(0,0,0,0.78);
+}
+body{
+    background-color: whitesmoke;
+}
+#show {
+    box-shadow: -3px 6px 51px -13px rgba(0,0,0,0.78);
+    -webkit-box-shadow: -3px 6px 51px -13px rgba(0,0,0,0.78);
+    -moz-box-shadow: -3px 6px 51px -13px rgba(0,0,0,0.78);
+}
+#LabelEmail {
+    font-size: 13px;
+}
+.small {
+    font-size: 15px;
+    color: steelblue;
+}
